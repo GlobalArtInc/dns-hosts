@@ -1,3 +1,5 @@
+10.0.0.24 ownlate-dev.local
+
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -11,5 +13,3 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-
-10.0.0.24 ownlate-dev.local
